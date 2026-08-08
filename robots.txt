@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suwon-yongin-massage.shop/sitemap.xml
