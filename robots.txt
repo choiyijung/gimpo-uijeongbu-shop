@@ -1,4 +1,3 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
-
-Sitemap: https://suwon-yongin-massage.shop/sitemap.xml
+Sitemap: https://gimpo-uijeongbu.shop/sitemap.xml
